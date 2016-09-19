@@ -26,7 +26,8 @@ FREQ_CODE = "TEOIARNSHLMYUCWDGPFBVKJ".lower()
 
 
 def principal():
-    freq_dict = dict()
+    # Contabilizar cuantas veces se repite un caracter.
+    freq_dict = {}  # freq_dict = dict()
     for letra in string.ascii_lowercase:
         repeticiones = MENSAJE_ENCRIPTADO.count(letra)
         if repeticiones:
