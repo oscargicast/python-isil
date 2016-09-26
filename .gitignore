@@ -1,5 +1,6 @@
 # Vagrant
 .vagrant
+.ipynb_checkpoints
 
 ## Extraido de https://github.com/github/gitignore/blob/master/Python.gitignore
 
