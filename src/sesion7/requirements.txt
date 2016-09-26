@@ -1,0 +1,2 @@
+jupyter==1.0.0
+urllib3==1.18
